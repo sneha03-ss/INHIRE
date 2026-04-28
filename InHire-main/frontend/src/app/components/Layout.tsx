@@ -20,7 +20,7 @@ export function Layout() {
             <div className="w-10 h-10 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
               <Briefcase className="w-6 h-6 text-white" />
             </div>
-            <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">IntriVue</h1>
+            <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">InHire</h1>
           </Link>
           <div className="flex items-center gap-6">
             <nav className="flex items-center gap-2">
@@ -51,7 +51,7 @@ export function Layout() {
       <footer className="bg-white border-t border-gray-200 mt-auto">
         <div className="max-w-7xl mx-auto px-6 py-4">
           <div className="flex items-center justify-center gap-6 text-sm text-gray-600">
-            <p>&copy; 2026 IntriVue. All rights reserved.</p>
+            <p>&copy; 2026 InHire. All rights reserved.</p>
             <Link to="/home/about" className="text-blue-600 hover:text-purple-600 font-medium transition-colors">About Us</Link>
           </div>
         </div>

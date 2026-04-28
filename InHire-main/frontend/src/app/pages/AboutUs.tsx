@@ -6,7 +6,7 @@ export function AboutUs() {
       <div className="max-w-5xl mx-auto p-8">
         {/* Hero Section */}
         <div className="bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl shadow-lg p-12 mb-8 text-white">
-          <h1 className="text-4xl font-bold mb-4">About IntriVue</h1>
+          <h1 className="text-4xl font-bold mb-4">About InHire</h1>
           <p className="text-xl opacity-90 max-w-2xl">
             Revolutionizing the job search experience by making it as simple and intuitive as a swipe.
           </p>
@@ -21,7 +21,7 @@ export function AboutUs() {
             <div>
               <h2 className="text-2xl font-bold text-gray-900 mb-3">Our Mission</h2>
               <p className="text-gray-600 leading-relaxed">
-                We believe finding the right job shouldn't be complicated. IntriVue combines cutting-edge 
+                We believe finding the right job shouldn't be complicated. InHire combines cutting-edge 
                 technology with an intuitive swipe interface to help job seekers discover opportunities 
                 that truly match their skills and aspirations. Our AI-powered matching algorithm ensures 
                 you see the most relevant positions first, saving you time and increasing your chances 
@@ -69,7 +69,7 @@ export function AboutUs() {
 
         {/* How It Works */}
         <div className="bg-white rounded-2xl shadow-lg p-8 mb-6">
-          <h2 className="text-2xl font-bold text-gray-900 mb-6">How IntriVue Works</h2>
+          <h2 className="text-2xl font-bold text-gray-900 mb-6">How InHire Works</h2>
           <div className="space-y-6">
             <div className="flex gap-4">
               <div className="w-10 h-10 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full flex items-center justify-center text-white font-bold flex-shrink-0">
@@ -130,11 +130,11 @@ export function AboutUs() {
           </p>
           <div className="flex flex-wrap gap-4">
             <a
-              href="mailto:hello@intrivue.com"
+              href="mailto:hello@inhire.com"
               className="inline-flex items-center gap-2 bg-gradient-to-r from-blue-600 to-purple-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-shadow"
             >
               <Mail className="w-5 h-5" />
-              hello@intrivue.com
+              hello@inhire.com
             </a>
             <button className="inline-flex items-center gap-2 bg-blue-500 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-shadow">
               <Linkedin className="w-5 h-5" />

@@ -41,7 +41,7 @@ export function CompanySignup() {
             <div className="w-12 h-12 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
               <Briefcase className="w-7 h-7 text-white" />
             </div>
-            <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">IntriVue</h1>
+            <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">InHire</h1>
           </div>
           <p className="text-gray-600 text-lg">Create your Company account</p>
         </div>

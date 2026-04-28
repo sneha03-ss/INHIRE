@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🚀 Starting IntriVue Full Stack..."
+echo "🚀 Starting InHire Full Stack..."
 
 # Start ML service
 echo "▶ Starting ML Service on port 8000..."

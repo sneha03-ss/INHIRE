@@ -37,7 +37,7 @@ export function Login() {
               <Briefcase className="w-7 h-7 text-white" />
             </div>
             <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              IntriVue
+              InHire
             </h1>
           </div>
           <p className="text-gray-600 text-lg">Welcome back!</p>

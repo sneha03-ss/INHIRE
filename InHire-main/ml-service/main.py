@@ -5,7 +5,7 @@ from typing import List
 import math
 from collections import Counter
 
-app = FastAPI(title="IntriVue ML Recommendation Service")
+app = FastAPI(title="InHire ML Recommendation Service")
 
 app.add_middleware(
     CORSMiddleware,

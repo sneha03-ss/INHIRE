@@ -124,7 +124,7 @@ export function ProfileDetails() {
             <div className="w-12 h-12 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
               <Briefcase className="w-7 h-7 text-white" />
             </div>
-            <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">IntriVue</h1>
+            <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">InHire</h1>
           </div>
           <h2 className="text-3xl font-bold text-gray-900 mb-2">Complete Your Profile</h2>
           <p className="text-gray-600 text-lg">Tell us more about yourself</p>
