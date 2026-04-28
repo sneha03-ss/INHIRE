@@ -72,7 +72,7 @@ npm -v
 
 ## 📥 Step 1: Clone Repository
 
-git clone https://github.com/YOUR_USERNAME/InHire.git
+git clone https://github.com/sneha03-33/INHIRE.git
 
 cd InHire
 
